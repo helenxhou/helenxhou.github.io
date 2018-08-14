@@ -62,8 +62,6 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Helen Hou
-  github: helenxhou
-  linkedin: in/helenxunhou
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -74,6 +72,8 @@ social-network-links:
   # email: true
   # facebook: false
   # twitter: false
+  github: helenxhou
+  linkedin: in/helenxunhou
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali

@@ -27,3 +27,20 @@ Eisen, H.N., **Hou, X.H.**, Shen, C., Wang, K., Tanguturi, V.K., Smith, C., Kozy
 Valentino, R.J., Guyenet, P., **Hou, X.H.**, Herman, M. 
 *J Neurosci* 37, 10848–10854 (2017)
 <small><a href="http://www.jneurosci.org/content/37/45/10848">DOI: 10.1523/JNEUROSCI.1833-17.2017</a></small> 
+
+<h3> Recent talks </h3>
+
+• <a href="https://www.grc.org/cerebellum-conference/2019/">Gordon Research Conference Cerebellum</a>, Les Diablerets, Switzerland, July 2019
+
+• <a href="https://biology.columbia.edu/pages/neurolunch-schedule-2018-19">Neurolunch</a>, Dept. of Biology, Columbia University, May 2019
+
+• <a href="https://www.bowdoin.edu/calendar/event.html?bid=929939&rid=107653">Biology Seminar Series</a>, Dept. of Biology, Bowdoin College, April 2018
+
+• Society for Neuroscience Meeting, <a href="https://www.sfn.org/-/media/SfN/Documents/Annual-Meeting/FinalProgram/NS2017/Full-Abstract-PDFs-2017/SFN17_Abstract-PDFs---Symp_Mini.pdf?la=en&hash=5923E4BD03F46A140290D672E417E82454AC722C">Symposium on Visceral Functions</a>, Washington DC, November 2017
+
+• Society of Urodynamics Meeting, Scottsdale AZ, February 2017
+
+• Harvard Medical School Dept. of Neurobiology 50th Anniversary Symposium, October 2016
+
+• Champalimaud Neuroscience Symposium, Lisbon, Portugal 09/2015
+

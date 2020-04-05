@@ -74,8 +74,7 @@ social-network-links:
   # twitter: false
   github: helenxhou
   linkedin: helenxunhou
-#  reddit: yourname
-#  google-plus: +DeanAttali
+  google: mH_jI_AAAAAJ
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -95,6 +94,7 @@ share-links-active:
   #google: false
   linkedin: true
   github: true
+  google: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -103,7 +103,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-162769323-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""

@@ -10,6 +10,11 @@ facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
+  
+google:
+  name: "Google scholar"
+  baseURL: "https://scholar.google.com/citations?user="
+  icon: "fa-google"
 
 github:
   name: "GitHub"
